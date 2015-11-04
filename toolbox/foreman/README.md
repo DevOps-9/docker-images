@@ -12,7 +12,7 @@ $ docker run --rm -it -e "FOREMAN_URL=https://foreman.domain" -e "USERNAME=myuse
 SSH plugin
 ----------
 
-You can mount a volume to your .ssh folder in order to use your private key with `hammer host ssh`):
+You can mount a volume to your .ssh folder in order to use your private key with `hammer host ssh`:
 
 ```bash
 $ docker run --rm -it -v ~/.ssh:/ssh -e "FOREMAN_URL=https://foreman.domain" -e "USERNAME=myuser" -e "PASSWORD=mypassword" deviantony/toolbox:foreman
