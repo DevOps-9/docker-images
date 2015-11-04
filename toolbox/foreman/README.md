@@ -1,6 +1,8 @@
 Foreman toolbox
 ===============
 
+[![](https://badge.imagelayers.io/deviantony/toolbox:foreman.svg)](https://imagelayers.io/?images=deviantony/toolbox:foreman 'Get your own badge on imagelayers.io')
+
 Toolbox containing the Foreman Hammer CLI: https://github.com/theforeman/hammer-cli
 
 Run it, you'll need to specify the URL of your Foreman host and the user credentials:
