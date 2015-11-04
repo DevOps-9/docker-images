@@ -3,11 +3,11 @@
   :enable_module: true
 
   # Your foreman server address
-  :host: 'https://localhost/'
+  :host: 'FOREMAN_URL'
 
   # Credentials. You'll be asked for them interactively if you leave them blank here
-  :username: 'admin'
-  :password: 'password'
+  :username: 'USERNAME'
+  :password: 'PASSWORD'
 
   # Check API documentation cache status on each request
   #:refresh_cache: false
