@@ -1,7 +1,7 @@
 MySQL toolbox
 =============
 
-[![](https://badge.imagelayers.io/deviantony/toolbox:latest.svg)](https://imagelayers.io/?images=deviantony/toolbox:mysql 'Get your own badge on imagelayers.io')
+[![](https://badge.imagelayers.io/deviantony/toolbox:mysql.svg)](https://imagelayers.io/?images=deviantony/toolbox:mysql 'Get your own badge on imagelayers.io')
 
 A set of tools to query/inspect MySQL.
 

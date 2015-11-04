@@ -1,7 +1,7 @@
 Sandbox Ubuntu
 ==============
 
-[![](https://badge.imagelayers.io/deviantony/sandbox:latest.svg)](https://imagelayers.io/?images=deviantony/sandbox:ubuntu 'imagelayers.io')
+[![](https://badge.imagelayers.io/deviantony/sandbox:ubuntu.svg)](https://imagelayers.io/?images=deviantony/sandbox:ubuntu 'imagelayers.io')
 
 A sandbox image based on Ubuntu server 14.04.
 
