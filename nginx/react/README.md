@@ -5,8 +5,10 @@ Nginx React image
 
 An image shipping Nginx with a configuration adapted for a React application.
 
+Should be used in a development environment, it requires a bind to a container named 'container-api'.
+
 Run it:
 
 ```bash
-$ docker run --rm --volumes-from container-build-app --link "container-api:api" -p 80:80 deviantony/nginx:react
+$ docker run --rm --volumes-from container-build-app --link container-api -p 80:80 deviantony/nginx:react
 ```
